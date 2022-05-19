@@ -6,7 +6,7 @@ var transport = mailer.createTransport({
     requireTLS: true,
     auth: {
         user: 'chandrab@observancegroup.com',
-        pass: 'Chandra@saini$money'
+        pass: ''
     }
 });
 
